@@ -1,0 +1,2 @@
+# fintech-model-based-credit-risk-evaluator
+This repo represents an example of utilizing supervised machine learning to make predictions. Credit risk poses a classification problem that’s inherently imbalanced. This is because healthy loans easily outnumber risky loans. Data is resampled and comparisons made on the accuracy, precision, and recall between the original imbalanced data and resampled data.
